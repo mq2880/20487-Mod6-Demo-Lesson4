@@ -1,0 +1,17 @@
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\bin\Debug\netcoreapp2.1\appsettings.json
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\bin\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.deps.json
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\bin\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.runtimeconfig.json
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\bin\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.runtimeconfig.dev.json
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\bin\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.dll
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\bin\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.pdb
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\obj\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.csprojAssemblyReference.cache
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\obj\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.AssemblyInfoInputs.cache
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\obj\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.AssemblyInfo.cs
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\obj\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.csproj.CoreCompileInputs.cache
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\obj\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.RazorAssemblyInfo.cache
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\obj\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.RazorAssemblyInfo.cs
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\obj\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.RazorTargetAssemblyInfo.cache
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\obj\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.dll
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\obj\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.pdb
+D:\20487C\Demo\20487-Mod6-Demo-Lesson3\SimpleServiceForDeploymentSlots\obj\Debug\netcoreapp2.1\SimpleServiceForDeploymentSlots.genruntimeconfig.cache
